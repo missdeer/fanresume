@@ -1,6 +1,6 @@
 # Site settings
-title: "杨樊的简历"
-description: "杨樊的简历——C++/Golang软件开发工程师"
+title: "Yang Fan Resume"
+description: "Yang Fan Resume——C++/Golang Software Developer"
 
 # Build settings
 markdown: kramdown
@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "杨樊"
-resume_title:                   "C++/Golang软件开发工程师"
+resume_name:                    "Yang Fan"
+resume_title:                   "C++/Golang Software Developer"
 resume_contact_email:
   "missdeer@dfordsoft.com"
 
