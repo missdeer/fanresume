@@ -1,6 +1,6 @@
 # Site settings
 title: "Yang Fan Resume"
-description: "Yang Fan Resume——C++/Golang Software Developer"
+description: "Yang Fan Resume——C++/Go Software Developer"
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Yang Fan"
-resume_title:                   "C++/Golang Software Developer"
+resume_title:                   "C++/Go Software Developer"
 resume_contact_email:
   "me@minidump.info"
 
